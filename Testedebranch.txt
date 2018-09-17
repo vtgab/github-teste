@@ -1,3 +1,0 @@
-#TestedeBranch
-
-Testar o branch e adicionar um arquivo.
